@@ -1,0 +1,12 @@
+{
+  "name": "chesslan_ai",
+  "description": "A program that allows you to play against lichess's AI in ChessLAN_3D.",
+  "main": "build/server.js",
+  "author": "yeondu1062",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
